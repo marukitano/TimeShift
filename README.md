@@ -3,14 +3,14 @@
 <p align="center">
   <img
     src="docs/past-present-future.png"
-    alt="Past Present Future on Pebble Time 2"
+    alt="TimeShift watchface on Pebble Time 2"
     width="600"
   >
 </p>
 
 ## English
 
-**Past Present Future** is a Pebble Time 2 watchface that refuses to live in
+**TimeShift** is a Pebble Time 2 watchface that refuses to live in
 only one moment. The present sits in the middle, the past waits on the left,
 and the future is already queuing on the right.
 
@@ -24,7 +24,7 @@ Switzerland. Consider it wrist-sized horological diplomacy.
 
 ## Deutsch
 
-**Past Present Future** ist ein Ziffernblatt für die Pebble Time 2, das sich
+**TimeShift** ist ein Ziffernblatt für die Pebble Time 2, das sich
 weigert, nur in einem einzigen Moment zu leben. In der Mitte steht die
 Gegenwart, links wartet die Vergangenheit und rechts drängelt bereits die
 Zukunft.
