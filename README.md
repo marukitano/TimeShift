@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="docs/past-present-future.png"
+    src="docs/timeshift.png"
     alt="TimeShift watchface on Pebble Time 2"
     width="600"
   >
